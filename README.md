@@ -2,10 +2,9 @@ Prepare par:
             
             Nouhaila ANDIA
 
-            ...........
+            Ougazzou Khalid
 
-            ..........
-
+            Zouair Ibenabid
 
 filiere: SMA
 
