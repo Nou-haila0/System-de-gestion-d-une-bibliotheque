@@ -4,7 +4,7 @@ Prepare par:
 
             Ougazzou Khalid
 
-            Zouair Ibenabid
+            Zouair Iben Abid
 
 filiere: SMA
 
