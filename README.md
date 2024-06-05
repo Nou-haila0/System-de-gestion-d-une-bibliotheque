@@ -2,12 +2,12 @@ Prepare par:
             
             Nouhaila ANDIA
 
-            Ougazzou khalid
+            Ougazzou Khalid
 
             Zouairi  ben abid
 
-filiere: SMA
+filière: SMA
 
 Pour le Module: Structure de donnees - S4
 
-Prof: Yassin Sadqui
+Prof: Yassine Sadqi
