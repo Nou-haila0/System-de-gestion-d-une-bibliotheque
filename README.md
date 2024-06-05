@@ -2,9 +2,9 @@ Prepare par:
             
             Nouhaila ANDIA
 
-            Ougazzou Khalid
+            Ougazzou khalid
 
-            Zouairi Iben Abid
+            Zouairi  ben abid
 
 filiere: SMA
 
